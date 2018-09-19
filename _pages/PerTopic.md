@@ -4,9 +4,6 @@ classes: wide
 permalink: /Pertopic/
 title: "Per Topic"
 author_profile: true
-header:
-  image: "/images/desk.jpg"
-  image_description: "Near Aachen, Germany"
 ---
 
 
